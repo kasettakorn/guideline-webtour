@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96a6a90086569cb20580a0aefd78679c",
+    "revision": "5440b48064f61ac03fa85106317190f6",
     "url": "/guideline-webtour/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/guideline-webtour/static/css/2.e10332d9.chunk.css"
   },
   {
-    "revision": "9737c2f8252fe876d2c8",
+    "revision": "9dbe4c84af1344723ff9",
     "url": "/guideline-webtour/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/guideline-webtour/static/js/2.dbfde112.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9737c2f8252fe876d2c8",
-    "url": "/guideline-webtour/static/js/main.bf54d835.chunk.js"
+    "revision": "9dbe4c84af1344723ff9",
+    "url": "/guideline-webtour/static/js/main.3fec76b1.chunk.js"
   },
   {
     "revision": "ad4cf50c75168a2b6c27",
